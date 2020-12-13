@@ -1,3 +1,5 @@
+console.log(`Первая задача`);
+
 let a = prompt('Введите число ');
 let str = "";
 
